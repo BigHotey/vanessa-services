@@ -36,4 +36,4 @@ vendor | исходный код поставляемый сторонним (в
 
 * Вы сами виноваты ;-)
 
-пример структуры каталого ведется в связянном репозитории [Vanessa Bootstrap](https://github.com/silverbulleters/vanessa-bootstrap)
+пример структуры каталогов ведется в связянном репозитории [Vanessa Bootstrap](https://github.com/silverbulleters/vanessa-bootstrap)
