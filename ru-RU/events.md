@@ -8,7 +8,7 @@ name: Мероприятия Vanessa Stack
 
 ## Май 2016
 
-* [Вебинар для начинающих разработчиков ADD](https://github.com/silverbulleters/vanessa-services/issues/21#issuecomment-215950159)
+* [Вебинар для начинающих разработчиков ADD](http://infostart.ru/webinars/521983/)
   * дата: `20 мая 2016 (предварительно)`
   * площадка: Вебинары `Infostart.ru`
   * ведущие: [alehinsasha](https://github.com/alehinsasha) [allustin](https://github.com/allustin) [esosna](https://github.com/pumbaEO)
