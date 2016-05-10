@@ -9,10 +9,13 @@ name: Мероприятия Vanessa Stack
 ## Май 2016
 
 * [Вебинар для начинающих разработчиков ADD](http://infostart.ru/webinars/521983/)
-  * дата: `20 мая 2016 (предварительно)`
+  * дата: `20 мая 2016 года`
   * площадка: Вебинары `Infostart.ru`
-  * ведущие: [alehinsasha](https://github.com/alehinsasha) [allustin](https://github.com/allustin) [esosna](https://github.com/pumbaEO)
-  * стоимость: бесплатно
+  * ведущие: 
+    * [alehinsasha](https://github.com/alehinsasha) 
+    * [allustin](https://github.com/allustin) 
+    * [esosna](https://github.com/pumbaEO)
+  * стоимость: **бесплатно**
 
 ## Июнь 2016
 
