@@ -13,7 +13,7 @@
 
 Однако нельзя забывать про:
 
-* репозиторий пользователя `EvilBeaver` [OScript Libs](https://github.com/EvilBeaver/oscript-library)
+* репозиторий пользователя `EvilBeaver` - [OScript Libs](https://github.com/EvilBeaver/oscript-library)
 * и про дружескую организацию [xDrivenDevelopment](https://github.com/xDrivenDevelopment)
 
 однако в рамках данного репозитория обсуждение и документирование указанных коллег не проводится.
